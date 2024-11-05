@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=iremsila-l&show_icons=true&theme=midnight-purple&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&line_height=20" />
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremsila-l&layout=donut&theme=midnight-purple"/>
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=iremsila-l&show_icons=true&theme=midnight-purple&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&line_height=20"/>
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremsila-l&layout=donut&theme=midnight-purple&hide_border=true"/>
   </a>
 </p>
 
